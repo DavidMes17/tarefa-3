@@ -1,0 +1,10 @@
+## Escreva um programa que receba a temperatura atual em Celsius e converta para Fahrenheit. Se a temperatura recebida for maior do que 32 graus, imprima a mensagem 'Hidrate-se' junto com o resultado da conversão, caso contrário imprima apenas a conversão.
+```python
+tempC = int(input("Digite a temperatura em °C: ))
+type(tempC)
+tempF = (tempC * 1.8) +32
+
+if tempF > 32
+    print(`hidrate-se`)
+        else:
+            print(`${tempF}`)

@@ -1,0 +1,19 @@
+## Faça um programa que receba o salário de um funcionário e calcule o valor do aumento com base nos dados abaixo.
+```python
+'''
+● Para salários superiores a R$ 1.250,00 Reais, calcule um aumento de 10%
+● Para os inferiores ou iguais, 15% de aumento
+'''
+
+sal = int(input("Digite seu salário: "))
+type(sal)
+sala = sal (10/100)
+all = sal + sala
+
+sala2 = sal (15/100)
+al = sal + sala2
+
+if sal > 1250.00
+    print(`O seu salário será de ${all}`)
+    else:
+print(`O seu salário será de ${al}`)

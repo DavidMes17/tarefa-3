@@ -1,0 +1,14 @@
+## Escreva um programa que receba dois números e imprima o quadrado do maior deles.
+```python
+number1 = int(input("Digite o primeiro número: ))
+type(number1)
+number2 = int(input(Digite o segundo número: ))
+type(number2)
+
+raiz1 = number1 * number1
+raiz2 = number2 * number2
+
+if raiz1 < raiz2
+print(`o número ${raiz1} tem o quadrado maior`)
+    else:
+        print('o número ${raiz2} tem o quadrado menor)

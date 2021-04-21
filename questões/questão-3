@@ -1,0 +1,11 @@
+## Faça um programa que receba dois números e retorne True se forem iguais, e False caso contrário
+```python
+numb1 int(input("Digite o primeiro número: "))
+type(numb1)
+numb2 int(input("Digite o segundo número: "))
+type(numb2)
+
+if numb1 == numb2
+    print("TRUE")
+        else:
+            print("FALSE")
